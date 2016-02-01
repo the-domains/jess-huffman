@@ -1,7 +1,7 @@
 name: Jess Huffman
 favicon: null
 layout_spectrum: 0.19939790666103363
-typography_spectrum: 0.9269238929264247
+typography_spectrum: 0.8504
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#f1812f'
+    - '#4d2c16'
+    - '#ac6129'
+    - '#e9975e'
+    - '#bb8a65'
   brandStrength: 0.9726218872237951
   lightness: 0.9740441953763366
   saturation: 0.684185222024098
