@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2016-02-02T02:38:56.167Z'
-dateModified: '2016-01-26T17:13:32.171Z'
+datePublished: '2016-02-18T16:35:11.464Z'
+dateModified: '2016-02-18T16:35:08.041Z'
 title: Getting Started on The Grid
 author: []
 sourcePath: _posts/2015-10-26-getting-started-on-the-grid.md
@@ -23,6 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f858acde-2413-40c2-b895-6ebfe2b3bca2.jpg)
+
 # Getting Started on The Grid
 
 Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
@@ -148,3 +150,5 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Email us at feedback@thegrid.io
 * Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- 
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f9c6edd-ced1-4862-b3ce-5f951558cf2d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35131c55-ec89-48e1-b671-899dcc24c452.jpg)
